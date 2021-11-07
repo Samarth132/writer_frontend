@@ -1,0 +1,22 @@
+{
+    "users": [
+      {
+        "username": "samarth",
+        "email": "samarthkatti@gmail.com",
+        "password": "test12",
+        "usr": 1
+      }
+    ],
+    "chapters": [
+        {   
+            "id":1,
+            "title":"Chapter 1",
+            "content":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi temporibus officia facere minima iste officiis repellat, quo vero nostrum quasi?"
+        },
+        {   
+          "id":2,
+          "title":"Chapter 2",
+          "content":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi temporibus officia facere minima iste officiis repellat, quo vero nostrum quasi?"
+        }
+    ] 
+}
